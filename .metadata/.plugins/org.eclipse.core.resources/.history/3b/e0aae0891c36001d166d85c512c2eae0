@@ -1,0 +1,7 @@
+package com.algaworks.algalog.domain.service;
+
+
+@Service
+public class CatalogoClienteService {
+	
+}

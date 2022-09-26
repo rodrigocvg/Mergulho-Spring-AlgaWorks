@@ -1,0 +1,12 @@
+package com.algaworks.algalog.domain.service;
+
+import com.algaworks.algalog.domain.repository.EntregaRepository;
+
+
+@Service
+public class SolicitacaoEntregaService {
+	
+	private EntregaRepository entregaRepository;
+	
+	
+}
